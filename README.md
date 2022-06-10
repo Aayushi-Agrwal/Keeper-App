@@ -1,2 +1,3 @@
 # Keeper-App
-Created with CodeSandbox
+Keeper-App using React.js
+Notes can added and deleted on this app.
